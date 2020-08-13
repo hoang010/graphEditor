@@ -3,8 +3,7 @@ import 'antd/dist/antd.css';
 import './form.css';
 import { Modal, Form, Input } from 'antd';
 
-const CollectionEditForm = ({selectedNodeType,visible, onCreate, onCancel }) => {
-
+const CollectionEditForm = ({selectedNodeType,visible, onCreate, onCancel,nodeTitle,nodeDesc }) => {
   const [form] = Form.useForm();
   return (
 
@@ -31,7 +30,9 @@ const CollectionEditForm = ({selectedNodeType,visible, onCreate, onCancel }) => 
         layout="vertical"
         name="form_in_modal"
         initialValues={{
+          nodeTitle : nodeTitle,
           modifier: 'public',
+          description : nodeDesc
         }}
       >
         <Form.Item
@@ -43,6 +44,7 @@ const CollectionEditForm = ({selectedNodeType,visible, onCreate, onCancel }) => 
         <Form.Item
           name="nodeTitle"
           label= {`${selectedNodeType} Title`}
+          
           rules={[
             {
               required: true,

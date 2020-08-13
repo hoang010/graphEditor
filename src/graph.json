@@ -1,0 +1,1410 @@
+{
+    "graph": [
+        {
+            "value": {
+                "label": "Unit",
+                "text": "01A"
+            },
+            "geometry": {
+                "x": 60.80000305175781,
+                "y": 220.80001831054688,
+                "width": 150,
+                "height": 60,
+                "relative": false
+            },
+            "style": "strokeColor=#000000;strokeWidth=1;fillColor=white",
+            "id": "2",
+            "vertex": true,
+            "connectable": true,
+            "parent": "1",
+            "source": null,
+            "target": null,
+            "mxObjectId": "mxCell#6",
+            "edges": [
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "01A",
+                        "dest": "01"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;",
+                    "id": "4",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "2",
+                    "target": "3",
+                    "mxObjectId": "mxCell#18"
+                },
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "01A",
+                        "dest": "01B"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;entryX=0.5;entryY=1;",
+                    "id": "10",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "2",
+                    "target": "9",
+                    "mxObjectId": "mxCell#19"
+                }
+            ]
+        },
+        {
+            "value": {
+                "label": "Unit",
+                "text": "01"
+            },
+            "geometry": {
+                "x": 60.80000305175781,
+                "y": 320.8000183105469,
+                "width": 150,
+                "height": 60,
+                "relative": false
+            },
+            "style": "strokeColor=#000000;strokeWidth=1;fillColor=white",
+            "id": "3",
+            "vertex": true,
+            "connectable": true,
+            "parent": "1",
+            "source": null,
+            "target": null,
+            "mxObjectId": "mxCell#7",
+            "edges": [
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "01A",
+                        "dest": "01"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;",
+                    "id": "4",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "2",
+                    "target": "3",
+                    "mxObjectId": "mxCell#18"
+                },
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "01",
+                        "dest": "01F"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "6",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "3",
+                    "target": "5",
+                    "mxObjectId": "mxCell#20"
+                }
+            ]
+        },
+        {
+            "value": {
+                "desc": 0,
+                "special": false,
+                "src": "01A",
+                "dest": "01"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;",
+            "id": "4",
+            "edge": true,
+            "parent": "1",
+            "source": "2",
+            "target": "3",
+            "mxObjectId": "mxCell#18"
+        },
+        {
+            "value": {
+                "label": "Unit",
+                "text": "01F"
+            },
+            "geometry": {
+                "x": 260.8000030517578,
+                "y": 320.8000183105469,
+                "width": 150,
+                "height": 60,
+                "relative": false
+            },
+            "style": "strokeColor=#000000;strokeWidth=1;fillColor=white",
+            "id": "5",
+            "vertex": true,
+            "connectable": true,
+            "parent": "1",
+            "source": null,
+            "target": null,
+            "mxObjectId": "mxCell#8",
+            "edges": [
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "01",
+                        "dest": "01F"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "6",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "3",
+                    "target": "5",
+                    "mxObjectId": "mxCell#20"
+                },
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "01F",
+                        "dest": "01E"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "8",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "5",
+                    "target": "7",
+                    "mxObjectId": "mxCell#21"
+                }
+            ]
+        },
+        {
+            "value": {
+                "desc": 0,
+                "special": false,
+                "src": "01",
+                "dest": "01F"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+            "id": "6",
+            "edge": true,
+            "parent": "1",
+            "source": "3",
+            "target": "5",
+            "mxObjectId": "mxCell#20"
+        },
+        {
+            "value": {
+                "label": "Unit",
+                "text": "01E"
+            },
+            "geometry": {
+                "x": 460.8000030517578,
+                "y": 320.8000183105469,
+                "width": 150,
+                "height": 60,
+                "relative": false
+            },
+            "style": "strokeColor=#000000;strokeWidth=1;fillColor=white",
+            "id": "7",
+            "vertex": true,
+            "connectable": true,
+            "parent": "1",
+            "source": null,
+            "target": null,
+            "mxObjectId": "mxCell#9",
+            "edges": [
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "01F",
+                        "dest": "01E"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "8",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "5",
+                    "target": "7",
+                    "mxObjectId": "mxCell#21"
+                },
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "01E",
+                        "src_desc": "default",
+                        "dest": "01D"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "18",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "7",
+                    "target": "17",
+                    "mxObjectId": "mxCell#22"
+                }
+            ]
+        },
+        {
+            "value": {
+                "desc": 0,
+                "special": false,
+                "src": "01F",
+                "dest": "01E"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+            "id": "8",
+            "edge": true,
+            "parent": "1",
+            "source": "5",
+            "target": "7",
+            "mxObjectId": "mxCell#21"
+        },
+        {
+            "value": {
+                "label": "Unit",
+                "text": "01B"
+            },
+            "geometry": {
+                "x": 60.80000305175781,
+                "y": 120.80001831054688,
+                "width": 150,
+                "height": 60,
+                "relative": false
+            },
+            "style": "strokeColor=#000000;strokeWidth=1;fillColor=white",
+            "id": "9",
+            "vertex": true,
+            "connectable": true,
+            "parent": "1",
+            "source": null,
+            "target": null,
+            "mxObjectId": "mxCell#10",
+            "edges": [
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "01A",
+                        "dest": "01B"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;entryX=0.5;entryY=1;",
+                    "id": "10",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "2",
+                    "target": "9",
+                    "mxObjectId": "mxCell#19"
+                },
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "01B",
+                        "dest": "01C"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "12",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "9",
+                    "target": "11",
+                    "mxObjectId": "mxCell#23"
+                }
+            ]
+        },
+        {
+            "value": {
+                "desc": 0,
+                "special": false,
+                "src": "01A",
+                "dest": "01B"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;entryX=0.5;entryY=1;",
+            "id": "10",
+            "edge": true,
+            "parent": "1",
+            "source": "2",
+            "target": "9",
+            "mxObjectId": "mxCell#19"
+        },
+        {
+            "value": {
+                "label": "Unit",
+                "text": "01C"
+            },
+            "geometry": {
+                "x": 260.8000030517578,
+                "y": 120.80001831054688,
+                "width": 150,
+                "height": 60,
+                "relative": false
+            },
+            "style": "strokeColor=#000000;strokeWidth=1;fillColor=white",
+            "id": "11",
+            "vertex": true,
+            "connectable": true,
+            "parent": "1",
+            "source": null,
+            "target": null,
+            "mxObjectId": "mxCell#11",
+            "edges": [
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "01B",
+                        "dest": "01C"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "12",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "9",
+                    "target": "11",
+                    "mxObjectId": "mxCell#23"
+                },
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "01C",
+                        "dest": "02"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "14",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "11",
+                    "target": "13",
+                    "mxObjectId": "mxCell#24"
+                }
+            ]
+        },
+        {
+            "value": {
+                "desc": 0,
+                "special": false,
+                "src": "01B",
+                "dest": "01C"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+            "id": "12",
+            "edge": true,
+            "parent": "1",
+            "source": "9",
+            "target": "11",
+            "mxObjectId": "mxCell#23"
+        },
+        {
+            "value": {
+                "label": "Unit",
+                "text": "02"
+            },
+            "geometry": {
+                "x": 460.8000030517578,
+                "y": 120.80001831054688,
+                "width": 150,
+                "height": 60,
+                "relative": false
+            },
+            "style": "strokeColor=#000000;strokeWidth=1;fillColor=white",
+            "id": "13",
+            "vertex": true,
+            "connectable": true,
+            "parent": "1",
+            "source": null,
+            "target": null,
+            "mxObjectId": "mxCell#12",
+            "edges": [
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "01C",
+                        "dest": "02"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "14",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "11",
+                    "target": "13",
+                    "mxObjectId": "mxCell#24"
+                },
+                {
+                    "value": {
+                        "desc": 2,
+                        "special": false,
+                        "src": "02",
+                        "dest": "Elevator A Level 1"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;",
+                    "id": "16",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "13",
+                    "target": "15",
+                    "mxObjectId": "mxCell#25"
+                },
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "02",
+                        "src_desc": "default",
+                        "dest": "05"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "21",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "13",
+                    "target": "20",
+                    "mxObjectId": "mxCell#26"
+                }
+            ]
+        },
+        {
+            "value": {
+                "desc": 0,
+                "special": false,
+                "src": "01C",
+                "dest": "02"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+            "id": "14",
+            "edge": true,
+            "parent": "1",
+            "source": "11",
+            "target": "13",
+            "mxObjectId": "mxCell#24"
+        },
+        {
+            "value": {
+                "label": "Elevator",
+                "text": "Elevator A Level 1"
+            },
+            "geometry": {
+                "x": 460.8000030517578,
+                "y": 220.80001831054688,
+                "width": 150,
+                "height": 60,
+                "relative": false
+            },
+            "style": "strokeColor=#000000;strokeWidth=1;fillColor=white",
+            "id": "15",
+            "vertex": true,
+            "connectable": true,
+            "parent": "1",
+            "source": null,
+            "target": null,
+            "mxObjectId": "mxCell#13",
+            "edges": [
+                {
+                    "value": {
+                        "desc": 2,
+                        "special": false,
+                        "src": "02",
+                        "dest": "Elevator A Level 1"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;",
+                    "id": "16",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "13",
+                    "target": "15",
+                    "mxObjectId": "mxCell#25"
+                },
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "default",
+                        "src_desc": "default",
+                        "dest": "default",
+                        "dest_desc": "default"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;entryX=0.5;entryY=1;",
+                    "id": "19",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "17",
+                    "target": "15",
+                    "mxObjectId": "mxCell#27"
+                },
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "default",
+                        "src_desc": "default",
+                        "dest": "default",
+                        "dest_desc": "default"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=1;entryY=0.5;",
+                    "id": "24",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "20",
+                    "target": "15",
+                    "mxObjectId": "mxCell#28"
+                },
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "default",
+                        "src_desc": "default",
+                        "dest": "default",
+                        "dest_desc": "default"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=1;entryY=0.5;",
+                    "id": "25",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "22",
+                    "target": "15",
+                    "mxObjectId": "mxCell#29"
+                },
+                {
+                    "value": {
+                        "desc": 2,
+                        "special": false,
+                        "src": "Elevator A Level B1",
+                        "dest": "default",
+                        "dest_desc": "default"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0;entryY=0.5;",
+                    "id": "27",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "26",
+                    "target": "15",
+                    "mxObjectId": "mxCell#30"
+                }
+            ]
+        },
+        {
+            "value": {
+                "desc": 2,
+                "special": false,
+                "src": "02",
+                "dest": "Elevator A Level 1"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;",
+            "id": "16",
+            "edge": true,
+            "parent": "1",
+            "source": "13",
+            "target": "15",
+            "mxObjectId": "mxCell#25"
+        },
+        {
+            "value": {
+                "label": "Unit",
+                "text": "01D"
+            },
+            "geometry": {
+                "x": 660.8000030517578,
+                "y": 320.8000183105469,
+                "width": 150,
+                "height": 60,
+                "relative": false
+            },
+            "style": "strokeColor=#000000;strokeWidth=1;fillColor=white",
+            "id": "17",
+            "vertex": true,
+            "connectable": true,
+            "parent": "1",
+            "source": null,
+            "target": null,
+            "mxObjectId": "mxCell#14",
+            "edges": [
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "01E",
+                        "src_desc": "default",
+                        "dest": "01D"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "18",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "7",
+                    "target": "17",
+                    "mxObjectId": "mxCell#22"
+                },
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "default",
+                        "src_desc": "default",
+                        "dest": "default",
+                        "dest_desc": "default"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;entryX=0.5;entryY=1;",
+                    "id": "19",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "17",
+                    "target": "15",
+                    "mxObjectId": "mxCell#27"
+                }
+            ]
+        },
+        {
+            "value": {
+                "desc": 0,
+                "special": false,
+                "src": "01E",
+                "src_desc": "default",
+                "dest": "01D"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+            "id": "18",
+            "edge": true,
+            "parent": "1",
+            "source": "7",
+            "target": "17",
+            "mxObjectId": "mxCell#22"
+        },
+        {
+            "value": {
+                "desc": 0,
+                "special": false,
+                "src": "default",
+                "src_desc": "default",
+                "dest": "default",
+                "dest_desc": "default"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;entryX=0.5;entryY=1;",
+            "id": "19",
+            "edge": true,
+            "parent": "1",
+            "source": "17",
+            "target": "15",
+            "mxObjectId": "mxCell#27"
+        },
+        {
+            "value": {
+                "label": "Unit",
+                "text": "05"
+            },
+            "geometry": {
+                "x": 660.8000030517578,
+                "y": 120.80001831054688,
+                "width": 150,
+                "height": 60,
+                "relative": false
+            },
+            "style": "strokeColor=#000000;strokeWidth=1;fillColor=white",
+            "id": "20",
+            "vertex": true,
+            "connectable": true,
+            "parent": "1",
+            "source": null,
+            "target": null,
+            "mxObjectId": "mxCell#15",
+            "edges": [
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "02",
+                        "src_desc": "default",
+                        "dest": "05"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "21",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "13",
+                    "target": "20",
+                    "mxObjectId": "mxCell#26"
+                },
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "05",
+                        "dest": "06"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "23",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "20",
+                    "target": "22",
+                    "mxObjectId": "mxCell#31"
+                },
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "default",
+                        "src_desc": "default",
+                        "dest": "default",
+                        "dest_desc": "default"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=1;entryY=0.5;",
+                    "id": "24",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "20",
+                    "target": "15",
+                    "mxObjectId": "mxCell#28"
+                }
+            ]
+        },
+        {
+            "value": {
+                "desc": 0,
+                "special": false,
+                "src": "02",
+                "src_desc": "default",
+                "dest": "05"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+            "id": "21",
+            "edge": true,
+            "parent": "1",
+            "source": "13",
+            "target": "20",
+            "mxObjectId": "mxCell#26"
+        },
+        {
+            "value": {
+                "label": "Unit",
+                "text": "06"
+            },
+            "geometry": {
+                "x": 860.8000030517578,
+                "y": 120.80001831054688,
+                "width": 150,
+                "height": 60,
+                "relative": false
+            },
+            "style": "strokeColor=#000000;strokeWidth=1;fillColor=white",
+            "id": "22",
+            "vertex": true,
+            "connectable": true,
+            "parent": "1",
+            "source": null,
+            "target": null,
+            "mxObjectId": "mxCell#16",
+            "edges": [
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "05",
+                        "dest": "06"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "23",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "20",
+                    "target": "22",
+                    "mxObjectId": "mxCell#31"
+                },
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "default",
+                        "src_desc": "default",
+                        "dest": "default",
+                        "dest_desc": "default"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=1;entryY=0.5;",
+                    "id": "25",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "22",
+                    "target": "15",
+                    "mxObjectId": "mxCell#29"
+                }
+            ]
+        },
+        {
+            "value": {
+                "desc": 0,
+                "special": false,
+                "src": "05",
+                "dest": "06"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+            "id": "23",
+            "edge": true,
+            "parent": "1",
+            "source": "20",
+            "target": "22",
+            "mxObjectId": "mxCell#31"
+        },
+        {
+            "value": {
+                "desc": 0,
+                "special": false,
+                "src": "default",
+                "src_desc": "default",
+                "dest": "default",
+                "dest_desc": "default"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=1;entryY=0.5;",
+            "id": "24",
+            "edge": true,
+            "parent": "1",
+            "source": "20",
+            "target": "15",
+            "mxObjectId": "mxCell#28"
+        },
+        {
+            "value": {
+                "desc": 0,
+                "special": false,
+                "src": "default",
+                "src_desc": "default",
+                "dest": "default",
+                "dest_desc": "default"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=1;entryY=0.5;",
+            "id": "25",
+            "edge": true,
+            "parent": "1",
+            "source": "22",
+            "target": "15",
+            "mxObjectId": "mxCell#29"
+        },
+        {
+            "value": {
+                "label": "Elevator",
+                "text": "Elevator A Level B1"
+            },
+            "geometry": {
+                "x": 460.3999938964844,
+                "y": -120,
+                "width": 150,
+                "height": 60,
+                "relative": false
+            },
+            "style": "strokeColor=#000000;strokeWidth=1;fillColor=white",
+            "id": "26",
+            "vertex": true,
+            "connectable": true,
+            "parent": "1",
+            "source": null,
+            "target": null,
+            "mxObjectId": "mxCell#17",
+            "edges": [
+                {
+                    "value": {
+                        "desc": 2,
+                        "special": false,
+                        "src": "Elevator A Level B1",
+                        "dest": "default",
+                        "dest_desc": "default"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0;entryY=0.5;",
+                    "id": "27",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "26",
+                    "target": "15",
+                    "mxObjectId": "mxCell#30"
+                },
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "Elevator A Level B1",
+                        "src_desc": "default",
+                        "dest": "Default Name",
+                        "dest_desc": "Default Description"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "29",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "26",
+                    "target": "28",
+                    "mxObjectId": "mxCell#37"
+                }
+            ],
+            "overlays": null
+        },
+        {
+            "value": {
+                "desc": 2,
+                "special": false,
+                "src": "Elevator A Level B1",
+                "dest": "default",
+                "dest_desc": "default"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0;entryY=0.5;",
+            "id": "27",
+            "edge": true,
+            "parent": "1",
+            "source": "26",
+            "target": "15",
+            "mxObjectId": "mxCell#30"
+        },
+        {
+            "value": {
+                "label": "Unit",
+                "text": "Default Name",
+                "desc": "Default Description"
+            },
+            "geometry": {
+                "x": 660.3999938964844,
+                "y": -120,
+                "width": 150,
+                "height": 60,
+                "relative": false
+            },
+            "style": "strokeColor=#000000;strokeWidth=1;fillColor=white",
+            "id": "28",
+            "vertex": true,
+            "connectable": true,
+            "parent": "1",
+            "source": null,
+            "target": null,
+            "mxObjectId": "mxCell#36",
+            "edges": [
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "Elevator A Level B1",
+                        "src_desc": "default",
+                        "dest": "Default Name",
+                        "dest_desc": "Default Description"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+                    "id": "29",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "26",
+                    "target": "28",
+                    "mxObjectId": "mxCell#37"
+                }
+            ],
+            "overlays": [
+                {
+                    "image": {
+                        "src": "https://uploads.codesandbox.io/uploads/user/4bf4b6b3-3aa9-4999-8b70-bbc1b287a968/jEU_-add.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    "tooltip": "add link",
+                    "align": "center",
+                    "verticalAlign": "bottom",
+                    "offset": {
+                        "x": 0,
+                        "y": 20
+                    },
+                    "cursor": "hand",
+                    "eventListeners": [
+                        "click",
+                        null
+                    ],
+                    "mxObjectId": "mxCellOverlay#38"
+                },
+                {
+                    "image": {
+                        "src": "https://uploads.codesandbox.io/uploads/user/4bf4b6b3-3aa9-4999-8b70-bbc1b287a968/jEU_-add.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    "tooltip": "add link",
+                    "align": "center",
+                    "verticalAlign": "top",
+                    "offset": {
+                        "x": 0,
+                        "y": -20
+                    },
+                    "cursor": "hand",
+                    "eventListeners": [
+                        "click",
+                        null
+                    ],
+                    "mxObjectId": "mxCellOverlay#39"
+                },
+                {
+                    "image": {
+                        "src": "https://uploads.codesandbox.io/uploads/user/4bf4b6b3-3aa9-4999-8b70-bbc1b287a968/jEU_-add.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    "tooltip": "add link",
+                    "align": "left",
+                    "verticalAlign": "middle",
+                    "offset": {
+                        "x": -20,
+                        "y": 0
+                    },
+                    "cursor": "hand",
+                    "eventListeners": [
+                        "click",
+                        null
+                    ],
+                    "mxObjectId": "mxCellOverlay#40"
+                },
+                {
+                    "image": {
+                        "src": "https://uploads.codesandbox.io/uploads/user/4bf4b6b3-3aa9-4999-8b70-bbc1b287a968/jEU_-add.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    "tooltip": "add link",
+                    "align": "right",
+                    "verticalAlign": "middle",
+                    "offset": {
+                        "x": 20,
+                        "y": 0
+                    },
+                    "cursor": "hand",
+                    "eventListeners": [
+                        "click",
+                        null
+                    ],
+                    "mxObjectId": "mxCellOverlay#41"
+                }
+            ]
+        },
+        {
+            "value": {
+                "desc": 0,
+                "special": false,
+                "src": "Elevator A Level B1",
+                "src_desc": "default",
+                "dest": "Default Name",
+                "dest_desc": "Default Description"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;",
+            "id": "29",
+            "edge": true,
+            "parent": "1",
+            "source": "26",
+            "target": "28",
+            "mxObjectId": "mxCell#37"
+        }
+    ]
+}

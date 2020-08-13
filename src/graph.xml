@@ -1,0 +1,126 @@
+{
+    "graph": [
+        {
+            "value": {
+                "label": "Unit",
+                "text": "Default Name",
+                "desc": "Default Description"
+            },
+            "geometry": {
+                "x": 84,
+                "y": 57.20000457763672,
+                "width": 150,
+                "height": 60,
+                "relative": false
+            },
+            "style": "strokeColor=#000000;strokeWidth=1;fillColor=white",
+            "id": "2",
+            "vertex": true,
+            "connectable": true,
+            "parent": "1",
+            "source": null,
+            "target": null,
+            "mxObjectId": "mxCell#6",
+            "overlays": null,
+            "edges": [
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "Default Name",
+                        "src_desc": "Default Description",
+                        "dest": "Default Name",
+                        "dest_desc": "Default Description"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;",
+                    "id": "4",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "2",
+                    "target": "3",
+                    "mxObjectId": "mxCell#12"
+                }
+            ]
+        },
+        {
+            "value": {
+                "label": "Unit",
+                "text": "Default Name",
+                "desc": "Default Description"
+            },
+            "geometry": {
+                "x": 84,
+                "y": 157.20000457763672,
+                "width": 150,
+                "height": 60,
+                "relative": false
+            },
+            "style": "strokeColor=#000000;strokeWidth=1;fillColor=white",
+            "id": "3",
+            "vertex": true,
+            "connectable": true,
+            "parent": "1",
+            "source": null,
+            "target": null,
+            "mxObjectId": "mxCell#11",
+            "edges": [
+                {
+                    "value": {
+                        "desc": 0,
+                        "special": false,
+                        "src": "Default Name",
+                        "src_desc": "Default Description",
+                        "dest": "Default Name",
+                        "dest_desc": "Default Description"
+                    },
+                    "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0,
+                        "relative": true
+                    },
+                    "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;",
+                    "id": "4",
+                    "edge": true,
+                    "parent": "1",
+                    "source": "2",
+                    "target": "3",
+                    "mxObjectId": "mxCell#12"
+                }
+            ],
+            "overlays": null
+        },
+        {
+            "value": {
+                "desc": 0,
+                "special": false,
+                "src": "Default Name",
+                "src_desc": "Default Description",
+                "dest": "Default Name",
+                "dest_desc": "Default Description"
+            },
+            "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "relative": true
+            },
+            "style": "edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;",
+            "id": "4",
+            "edge": true,
+            "parent": "1",
+            "source": "2",
+            "target": "3",
+            "mxObjectId": "mxCell#12"
+        }
+    ]
+}
