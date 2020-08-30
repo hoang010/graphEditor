@@ -85,6 +85,7 @@ class mxGraphGridAreaEditor extends Component {
   constructor(props) {
     super(props);
     this.state = {
+      undoSteps : 1,
       graph: {},
       layout: {},
       json: {},
@@ -515,12 +516,21 @@ class mxGraphGridAreaEditor extends Component {
     const keyHandler = new mxKeyHandler(graph);
     keyHandler.bindKey(46, function(evt) {
       if (graph.isEnabled()) {
-        const currentNode = graph.getSelectionCell();
-        graph.removeCells([currentNode]);
+        let currentNode = graph.getSelectionCell();
+        do{
+          console.log(currentNode);
+          graph.removeCells([currentNode]);
+          that.state.undoSteps += 1;
+          currentNode = graph.getSelectionCell();
+        }while (currentNode)
+        that.state.undoSteps -= 1;
       }
     });
     keyHandler.bindControlKey(90, function(evt){
-      undoManager.undo();
+      for(let i= 0; i<that.state.undoSteps;i++){
+        undoManager.undo();
+      }
+      that.state.undoSteps = 1;
     });
     keyHandler.bindControlKey(89, function(evt){
       undoManager.redo();
@@ -575,7 +585,7 @@ class mxGraphGridAreaEditor extends Component {
 
         var p = document.createElement("p");
         p.setAttribute("class", "nodeName");
-        p.innerHTML = cell.getAttribute("label");
+        p.innerHTML = cell.getAttribute("desc");
         div.appendChild(p);
         return div;
       }

@@ -1,0 +1,238 @@
+,Category,Name,Location,Elevator Region,Cluster,Spelling
+0,Cafe,Trung Nguyen Cafe,L1-71,,,"Trung Nguyen Cafe, Trung Nguyen"
+1,General,Livewire by Singapore Pools,L1-01,,B_2,"Livewire by Singapore Pools, Livewire, Singapore Pools, live wire"
+2,General,Far East Exchange,L1-07,,C_2,Far East Exchange
+3,Gourmet & Specialty Food,VOM FASS,L1-11,,C_2,VOM FASS
+4,Gourmet & Specialty Food,Da Vinci,L1-29,,B_2,"Da Vinci, DaVinci"
+5,Gourmet & Specialty Food,Gong Cha,L1-72,,A_3,"Gong Cha, Gongcha"
+6,Gourmet & Specialty Food,7-Eleven,L1-73,,A_3,"7-Eleven, seven eleven"
+7,"Handsbag, Shoes & Accessories",Massimo Bonini,L1-31,,B_3,"Massimo Bonini, Massimo, Bonini"
+8,"Handsbag, Shoes & Accessories",LANA MARKS,L1-41,,B_4,"LANA MARKS, LANAMARKS"
+9,"Handsbag, Shoes & Accessories",Harley-Davidson,L1-63,,A_2,"Harley-Davidson,Harley Davidson, HarleyDavidson"
+10,Jewellery,DeGem (Hotel Lobby),L1-03,,C_1,"DeGem (Hotel Lobby), DeGem"
+11,Jewellery,LEVIEV (Hotel Lobby),L1-08,,C_2,"LEVIEV (Hotel Lobby), LEVIEV"
+12,Jewellery,Mikimoto,L1-21,,B_2,Mikimoto
+13,Jewellery,Piaget,L1-48,,B_5,Piaget
+14,Jewellery,Mondial,L1-56,,A_1,Mondial
+15,Lifestyle & Gifts,Fossil Collections,L1-09,,C_2,Fossil Collections
+16,Lifestyle & Gifts,The Gems Garden,L1-10,,C_2,The Gems Garden
+17,Lifestyle & Gifts,Ultimate Drive (Hotel Lobby),L1-14,,B_1,"Ultimate Drive (Hotel Lobby), Ultimate Drive"
+18,Lifestyle & Gifts,Da Vinci,L1-29,,B_2,"Da Vinci, DaVinci"
+19,Lifestyle & Gifts,Les Affaires,L1-67,,A_2,Les Affaires
+20,Restaurants,Au Chocolat,L1-03,,C_1,"Au Chocolat, AuChocolat"
+21,Restaurants,Jin Shan (Hotel Lobby),L1-05,,C_1,"Jin Shan (Hotel Lobby), Jin Shan, JinShan"
+22,Restaurants,Carnivore Brazillian Churrascraria,L1-80,,A_3,"Carnivore Brazillian Churrascraria, Carnivore, Churrascraria, Brazillian Churrascraria"
+23,Restaurants,Rio Tapas,L1-80,,A_3,"Rio Tapas, RioTapas, Tapas"
+24,Restaurants,Yu Cuisine L1,L1-82,,A_5,"Yu Cuisine L1, Yu L1"
+25,Restaurants,Caffe B L1,L1-83,,A_5,"Caffe B L1, Cafe B L1"
+26,Restaurants,Bazin,L1-84,,B_6,Bazin
+27,Restaurants,South Coast,L1-85,,B_6,South Coast
+28,Restaurants,Hide Yamamoto,L1-86,,B_7,"Hide Yamamoto, Yamamoto, Hideo Yamamoto"
+29,Restaurants,Pita Pan,L1-87,,C_3,"Pita Pan, Pita"
+30,Restaurants,DOM Lounge,L1-88,,C_3,"DOM Lounge, DOM"
+31,"Sports, Beauty & Wellness",Dragon Brand Bird's Nest,L1-08,,C_2,"Dragon Brand Bird's Nest, Bird's Nest, Dragon Brand"
+32,"Sports, Beauty & Wellness",Orogold Cosmetics L1,L1-12,,C_2,"Orogold Cosmetics L1, Orogold L1"
+33,"Sports, Beauty & Wellness",Kenko Reflexology & Fish Spa,L1-15,,B_1,"Kenko Reflexology & Fish Spa, Kenko, Reflexology & Fish Spa"
+34,"Sports, Beauty & Wellness",Penhaligon's,L1-33,,B_3,Penhaligon's
+35,"Sports, Beauty & Wellness",Forever Flawless,L1-64,,A_2,Forever Flawless
+36,"Sports, Beauty & Wellness",ZELL-V ,L1-66,,A_2,"ZELL-V, ZELL"
+37,"Sports, Beauty & Wellness",The Sloane Clinic,L1-68,,A_2,"The Sloane Clinic, Sloane Clinic"
+38,Watches,Hermes Watch Boutique,L1-43,,B_4,"Hermes Watch Boutique, Hermes Watch"
+39,Watches,Richard Mille,L1-51,,B_5,Richard Mille
+40,Watches,Franck Mullet,L1-55,,A_1,Franck Mullet
+41,Watches,Ulysse Nardin,L1-57,,A_1,Ulysse Nardin
+42,Watches,Hublot,L1-58,,A_1,Hublot
+43,Women's Fashion,MCM (Hotel Lobby),L1-12,,C_2,"MCM (Hotel Lobby), MCM"
+44,Women's Fashion,3.1 Phillip Lim,L1-16,,B_1,"3.1 Phillip Lim, Phillip Lim"
+45,Women's Fashion,Calvin Klein Collection,L1-17,,B_1,"Calvin Klein Collection, Calvin Klein"
+46,Women's Fashion,Loewe,L1-18,,,Loewe
+47,Women's Fashion,CH Carolina Herrera,L1-19,,B_2,"CH Carolina Herrera, Carolina Herrera"
+48,Women's Fashion,Kenzo,L1-22,,B_2,Kenzo
+49,Women's Fashion,Anne Fontaine,L1-25,,B_2,Anne Fontaine
+50,Women's Fashion,Germain,L1-26,,B_2,Germain
+51,Women's Fashion,Marisfrolg,L1-28,,B_2,Marisfrolg
+52,Women's Fashion,LA PERLA,L1-35,,B_3,LA PERLA
+53,Women's Fashion,Balenciaga,L1-39,,B_4,Balenciaga
+54,Women's Fashion,Salvatore Ferragamo,L1-45,,,Salvatore Ferragamo
+55,Women's Fashion,Mulberry,L1-50,,B_5,Mulberry
+56,Women's Fashion,CHANEL L1,L1-59,,,CHANEL L1
+57,Women's Fashion,Blum & Co.,L1-65,,A_2,"Blum & Co., Blum and Co, Blum"
+58,Women's Fashion,JiXiang Zhai,L1-69,,A_2,"JiXiang Zhai, JiXiang"
+59,Women's Fashion,HOAMGAR,L1-70,,A_2,HOAMGAR
+60,,Prada L1,L1-38,,,Prada L1
+61,Celebrity Chefs,CUT,B1-71,,B1_B_9,CUT
+62,Celebrity Chefs,db Bistro Moderne,B1-48,,B1_C_1,"db Bistro Moderne, Bistro Moderne, Moderne"
+63,Celebrity Chefs,Pizzeria & Osteria Mozza ,B1-42,,B1_B_6,"Pizzeria & Osteria Mozza, Pizzaria, Osteria Mozza"
+64,Children's Fashion & Maternity,Baby Dior,B1-63,,B1_C_3,Baby Dior
+65,Children's Fashion & Maternity,bloomB,B1-60A,,B1_C_3,bloomB
+66,Children's Fashion & Maternity,PONEY enfants,B1-59,,B1_C_2,"PONEY enfants, PONEY, enfants"
+67,Children's Fashion & Maternity,Motherswork,B1-58,,B1_C_2,"Motherswork, mothers work"
+68,Children's Fashion & Maternity,nicholas & bears,B1-56,,B1_C_1,"nicholas & bears, nicholas and bears"
+69,Children's Fashion & Maternity,Kids 21,B1-52,,B1_C_1,Kids 21
+70,Electronics & Telecommunications,VERTU,B1-91,,B1_B_7,VERTU
+71,Food Court,1983 - A Taste of Nanyang,B1-01,,B1_A_1,"1983 - A Taste of Nanyang, 1983"
+72,General,MasterCard Theatres Box Office,B1-69,,B1_B_9,"MasterCard Theatres Box Office, Mastercard Theatres"
+73,General,Dental on the Bay,B1-60,,B1_C_2,Dental on the Bay
+74,General,Fidgets City,B1-57,,B1_C_1,Fidgets City
+75,"Handbags, Shoes & Accessories",KWANPEN Men's Boutique,B1-85,,B1_B_7,"KWANPEN Men's Boutique, KWANPEN Men"
+76,"Handbags, Shoes & Accessories",Spectacle Hut Boutique B1,B1-81A,,B1_B_8,"Spectacle Hut Boutique B1, Spectacle Hut B1"
+77,"Handbags, Shoes & Accessories",Crocs,B1-61,,B1_C_3,Crocs
+78,"Handbags, Shoes & Accessories",Birkenstock,B1-56A,,B1_C_1,Birkenstock
+79,"Handbags, Shoes & Accessories",KWANPEN Boutique,B1-147,,B1_A_5,"KWANPEN Boutique, KWANPEN"
+80,"Handbags, Shoes & Accessories",TUMI,B1-127,,B1_A_6,TUMI
+81,"Handbags, Shoes & Accessories",Jimmy Choo,B1-118,,B1_B_3,"Jimmy Choo, JimmyChoo"
+82,Jewellery,Chaumet,B1-93,,B1_B_7,Chaumet
+83,Jewellery,Cartier B1,B1-39A,,B1_B_6,Cartier B1
+84,Jewellery,BVLGARI B1,B1-36,,,BVLGARI B1
+85,Jewellery,Tiffany & Co.,B1-132,,B1_A_6,"Tiffany & Co., Tiffany, Tiffany and Co"
+86,Lifestyle & Gifts,Davidoff of Geneva,B1-90,,B1_B_7,"Davidoff of Geneva, Davidoff, Geneva"
+87,Lifestyle & Gifts,Aimer Men,B1-83,,B1_B_8,Aimer Men
+88,Lifestyle & Gifts,Theatre Boutique,B1-70,,B1_B_9,Theatre Boutique
+89,Lifestyle & Gifts,The Oaks Cellars,B1-51,,B1_C_1,The Oaks Cellars
+90,Lingerie,Aimer,B1-148,,B1_A_5,Aimer
+91,Men's Fashion,VERSACE,B1-90A,,B1_B_7,VERSACE
+92,Men's Fashion,La Martina,B1-82,,B1_B_8,"La Martina, Martina"
+93,Men's Fashion,Brioni,B1-76,,B1_B_8,Brioni
+94,Men's Fashion,Stefano Ricci,B1-75,,B1_B_8,"Stefano Ricci, Stefano"
+95,Men's Fashion,Uomo Collezioni,B1-73,,B1_B_8,"Uomo Collezioni, Uomo"
+96,Men's Fashion,Ralph Lauren B1,B1-72,,,Ralph Lauren B1
+97,Men's Fashion,Tonino Larborghini,B1-68,,B1_C_4,Tonino Larborghini
+98,Men's Fashion,Hermes,B1-41,,B1_B_6,Hermes
+99,Men's Fashion,Armani/ Marina Bay,B1-29,,B1_B_1,"Armani/ Marina Bay, Armani"
+100,Men's Fashion,Dior B1,B1-28,,B1_B_1,Dior B1
+101,Men's Fashion,FENDI,B1-22,,B1_B_1,FENDI
+102,Men's Fashion,Brooks Brothers,B1-17,,B1_A_4,Brooks Brothers
+103,Men's Fashion,Tommy Hilfiger,B1-16,,B1_A_4,"Tommy Hilfiger, Tommy"
+104,Men's Fashion,a.testoni,B1-141,,B1_A_5,"a.testoni, testoni"
+105,Men's Fashion,Tom Ford,B1-128,,B1_A_6,Tom Ford
+106,Men's Fashion,Shanghai Tang,B1-12,,B1_A_4,Shanghai Tang
+107,Men's Fashion,Gucci,B1-109,,B1_B_3,Gucci
+108,Men's Fashion,Alfred Dunhill,B1-108,,,Alfred Dunhill
+109,Men's Fashion,Burberry B1,B1-103,,B1_B_2,Burberry B1
+110,Men's Fashion,Maison Martin Margiela,B1-10,,B1_A_4,"Maison Martin Margiela, Maison, Martin Margiela"
+111,Restaurants,Caffe B B1,B1-15,,B1_A_4,"Caffe B B1, Cafe B B1"
+112,Restaurants,Yu Cuisine B1,B1-08,,B1_A_4,"Yu Cuisine B1, Yu B1"
+113,Restaurants,Punjab Grill,B1-01A,,B1_A_1,Punjab Grill
+114,"Sports, Beauty & Wellness",Jo Malone London,B1-80,,B1_B_8,"Jo Malone London, Jo Malone"
+115,"Sports, Beauty & Wellness",Columbia,B1-67,,B1_C_4,Columbia
+116,"Sports, Beauty & Wellness",Mizuno ,B1-66,,B1_C_4,Mizuno
+117,"Sports, Beauty & Wellness",World of Sports,B1-65,,B1_C_4,World of Sports
+118,"Sports, Beauty & Wellness",Munsingwear,B1-56C,,B1_C_1,Munsingwear
+119,"Sports, Beauty & Wellness",Sun Paradise,B1-55A,,B1_C_1,Sun Paradise
+120,"Sports, Beauty & Wellness",adidas,B1-55,,B1_C_1,adidas
+121,"Sports, Beauty & Wellness",Action Hair Boutique,B1-150,,,"Action Hair Boutique, Action Hair"
+122,"Sports, Beauty & Wellness",IsisDoc Face Body Spa,B1-01F,,B1_A_3,"IsisDoc Face Body Spa, IsisDoc"
+123,Watches,Tudor,B1-88,,B1_B_7,Tudor
+124,Watches,RADO,B1-86,,B1_B_7,RADO
+125,Watches,LONGINES,B1-18,,B1_A_4,LONGINES
+126,Watches,JWC Schaffhausen Boutique,B1-126,,B1_A_6,"JWC Schaffhausen Boutique, JWC"
+127,Watches,OMEGA,B1-122,,,OMEGA
+128,Watches,Breguet,B1-119,,B1_B_3,Breguet
+129,Watches,Chopard,B1-107,,B1_B_2,Chopard
+130,Watches,TISSOT,B1-06,,,TISSOT
+131,Women's Fashion,Bottega Veneta B1,B1-99,,B1_B_2,Bottega Veneta B1
+132,Women's Fashion,Prada B1,B1-98,,,Prada B1
+133,Women's Fashion,BritishIndia,B1-81,,B1_B_8,"BritishIndia, British India"
+134,Women's Fashion,Paul & Shark,B1-80,,B1_B_8,"Paul & Shark, Paul and Shark"
+135,Women's Fashion,REDValentino,B1-79,,B1_B_8,REDValentino
+136,Women's Fashion,BALLY,B1-78,,B1_B_8,BALLY
+137,Women's Fashion,Hermes,B1-41,,B1_B_6,Hermes
+138,Women's Fashion,Louis Vuitton (Crystal Pavilion North) B1,B1-38,,B1_B_6,"Louis Vuitton (Crystal Pavilion North) B1, Louis Vuitton B1"
+139,Women's Fashion,MIU MIU,B1-32,,B1_B_1,"MIU MIU, MIUMIU"
+140,Women's Fashion,6five Barcode,B1-145,,B1_A_5,"6five Barcode, sixfive, 6five"
+141,Women's Fashion,MOISELLE,B1-142,,B1_A_5,MOISELLE
+142,Women's Fashion,CHANEL B1,B1-135,,,CHANEL B1
+143,Women's Fashion,CELINE,B1-130,,B1_A_6,CELINE
+144,Women's Fashion,Givenchy,B1-129,,B1_A_6,Givenchy
+145,Women's Fashion,Saint Laurent,B1-116,,B1_B_3,Saint Laurent
+146,Women's Fashion,Roberto Cavalli,B1-11,,B1_A_4,Roberto Cavalli
+147,Women's Fashion,Maison Martin Margiela,B1-10,,B1_A_4,"Maison Martin Margiela, Maison, Martin Margiela"
+148,Restaurants,Todai,B2-01,,B2_A_3,Todai
+149,Men's Fashion,Citizen,B2-01A,,B2_A_4,Citizen
+150,Restaurants,Bay Sushi,B2-01B,,B2_A_4,Bay Sushi
+151,Bars & Nightclubs,Pangaea (Crystal Pavilion South),B2-05,,B2_A_4,"Pangaea (Crystal Pavilion South), Pangaea"
+152,Men's Fashion,Zara Store,B2-08,,,"Zara Store, Zara"
+153,"Handbag, Shoes & Accessories",Pedro,B2-100,,B2_A_6,Pedro
+154,Women's Fashion,Bimba & Lola,B2-100A,,B2_A_6,"Bimba & Lola, Bimba, Lola, Bimba and Lola"
+155,Women's Fashion,Gap,B2-101,,B2_A_6,Gap
+156,Lingerie,La Senza,B2-102,,B2_A_6,"La Senza, LaSenza"
+157,Men's Fashion,Banana Republic,B2-103,,B2_A_6,Banana Republic
+158,Men's Fashion,Swatch,B2-105,,,Swatch
+159,"Handbag, Shoes & Accessories",Nine West,B2-108,,B2_A_5,Nine West
+160,"Handbag, Shoes & Accessories",Steve Madden,B2-108A,,B2_A_5,Steve Madden
+161,Men's Fashion,7 for All Mankind,B2-109,,B2_A_5,"7 for All Mankind, Mankind, 7 for all"
+162,Men's Fashion,Evisu,B2-110,,B2_A_5,Evisu
+163,Men's Fashion,True Religion,B2-111,,B2_A_5,True Religion
+164,"Handbag, Shoes & Accessories",Limited Edt Chamber,B2-112,,B2_A_5,"Limited Edt Chamber, Limited Edition"
+165,Men's Fashion,Zara Other Store,B2-113,,B2_A_5,Zara Other Store
+166,"Handbag, Shoes & Accessories",Kurt Geiger,B2-117,,B2_A_5,Kurt Geiger
+167,Men's Fashion,N.Tyler,B2-118,,B2_A_5,"N.Tyler, Ntyler, Tyler"
+168,Lifestyle & Gifts,UM,B2-119,,,UM
+169,Cafes,tcc - The Connoisseur Concerto,B2-120,,B2_A_4,"tcc - The Connoisseur Concerto, tcc, concerto, The connoisseur"
+170,"Handbag, Shoes & Accessories",Camper,B2-13,,B2_A_2,Camper
+171,Men's Fashion,Bread & Butter,B2-14,,B2_A_2,"Bread & Butter, Bread and Butter"
+172,Men's Fashion,A|X Armani Exchange,B2-15,,B2_A_2,"A|X Armani Exchange, Armani Exchange"
+173,Men's Fashion,RAOUL,B2-17,,B2_A_1,RAOUL
+174,"Handbag, Shoes & Accessories",Crabtree & Evelyn,B2-17A,,,"Crabtree & Evelyn, Crabtree, Crabtree and Evelyn"
+175,Men's Fashion,Swarovski,B2-18,,B2_A_1,Swarovski
+176,"Handbag, Shoes & Accessories",Victoria's Secret Beauty & Accessories,B2-19,,B2_A_1,"Victoria's Secret Beauty & Accessories, Victoria's Secret"
+177,Cafes,The Coffee Bean & Tea Leaf - Beanstro,B2-20,,,"The Coffee Bean & Tea Leaf - Beanstro, The coffee bean and Tea leaf, cbtl"
+178,Men's Fashion,Tommy Hilfiger Denim,B2-21,,B2_B_1,"Tommy Hilfiger Denim, Tommy Denim"
+179,Women's Fashion,Michael Kors,B2-22,,B2_B_1,Michael Kors
+180,Men's Fashion,BVLGARI B2,B2-35,,B2_B_1,BVLGARI B2
+181,Men's Fashion,Louis Vuitton (Crystal Pavilion North) B2,B2-36,,,"Louis Vuitton (Crystal Pavilion North) B2, Loius Vuitton B2"
+182,Men's Fashion,Cartier B2,B2-38,,,Cartier B2
+183,"Handbag, Shoes & Accessories",Coach,B2-40,,B2_B_2,Coach
+184,Men's Fashion,Porsche Design ,B2-41,,B2_B_2,Porsche Design
+185,"Handbag, Shoes & Accessories",Bath & Body Works,B2-42,,B2_B_2,"Bath & Body Works, Bath and body works"
+186,"Handbag, Shoes & Accessories",Sephora,B2-43,,B2_C_1,Sephora
+187,"Handbag, Shoes & Accessories",Spectacle Hut Boutique B2,B2-45,,B2_C_1,"Spectacle Hut Boutique B2, Spectacle Hut B2"
+188,Gourmet & Specialty Food,Cold Storage Specialty,B2-46,,B2_C_1,"Cold Storage Specialty, Cold Storage"
+189,Restaurants,High Society,B2-47,,B2_C_1,High Society
+190,Lifestyle & Gifts,That CD Shop,B2-48,,B2_C_1,That CD Shop
+191,"Handbag, Shoes & Accessories",Guardian Health & Beauty,B2-49,,B2_C_2,"Guardian Health & Beauty, Guardian"
+192,Food Court,Rasapura Masters,B2-50,,B2_C_2,Rasapura Masters
+193,Restaurants,Kraze Burgers,B2-55,,B2_C_3,"Kraze Burgers, Craze burgers"
+194,"Handbag, Shoes & Accessories",Eu Yan Sang,B2-56,,B2_C_3,Eu Yan Sang
+195,Gourmet & Specialty Food,Chocolate. Candy. Delicatessen,B2-57,,B2_C_3,Chocolate. Candy. Delicatessen
+196,"Handbag, Shoes & Accessories",GNC,B2-58,,,GNC
+197,"Handbag, Shoes & Accessories",OSIM,B2-58,,,OSIM
+198,"Handbag, Shoes & Accessories",Parfums Christian Dior,B2-58,,,Parfums Christian Dior
+199,"Handbag, Shoes & Accessories",Watsons,B2-59,,B2_C_4,Watsons
+200,Electronics & Telecommunications,EpiCentre,B2-60,,B2_C_4,EpiCentre
+201,Men's Fashion,BERING,B2-61,,B2_C_4,BERING
+202,Lifestyle & Gifts,Cath Kidston,B2-61,,B2_C_4,Cath Kidston
+203,Cafes,Toast Box,B2-62,,B2_B_3,Toast Box
+204,Restaurants,Din Tai Fung,B2-63,,B2_B_3,Din Tai Fung
+205,Restaurants,TWG Tea Salon & Boutique Store,B2-65,,B2_B_3,"TWG Tea Salon & Boutique Store, TWG Store"
+206,Men's Fashion,Ralph Lauren B2,B2-68,,B2_B_3,Ralph Lauren B2
+207,Men's Fashion,Prada B2,B2-69,,,Prada B2
+208,Lifestyle & Gifts,Montblanc,B2-71,,B2_B_4,Montblanc
+209,Women's Fashion,Bottega Veneta B2,B2-72A,,B2_B_4,Bottega Veneta B2
+210,Women's Fashion,Burberry B2,B2-78,,B2_B_4,Burberry B2
+211,Men's Fashion,Damiani,B2-79,,B2_B_4,Damiani
+212,"Handbag, Shoes & Accessories",Jeansctt lunettes,B2-80,,B2_B_4,"Jeansctt lunettes, Jeans lunettes"
+213,"Handbag, Shoes & Accessories",Longchamp,B2-81,,B2_B_4,Longchamp
+214,Men's Fashion,GUESS,B2-83,,,GUESS
+215,Women's Fashion,Juicy Couture,B2-86,,B2_B_5,Juicy Couture
+216,"Handbag, Shoes & Accessories",ECCO,B2-88,,B2_B_5,ECCO
+217,Men's Fashion,Pandora Other Store,B2-88A,,B2_B_5,Pandora Other Store
+218,Restaurants,TWG Tea Salon & Boutique Other Store,B2-89,,B2_B_5,"TWG Tea Salon & Boutique Other Store, TWG Other Store"
+219,Men's Fashion,G-Factory Premium,B2-90,,B2_B_5,"G-Factory Premium, G-Factory"
+220,Men's Fashion,Fossil,B2-90A,,B2_B_5,Fossil
+221,"Handbag, Shoes & Accessories",MANGO TOUCH,B2-91,,B2_B_5,MANGO TOUCH
+222,Lifestyle & Gifts,Royal Selangor,B2-92,,B2_B_5,Royal Selangor
+223,Men's Fashion,Watch Station International,B2-93,,B2_B_5,"Watch Station International, Watch Station"
+224,Men's Fashion,Lukfook Jewellery,B2-95,,B2_B_5,"Lukfook Jewellery, LukFook"
+225,Women's Fashion,Sacoor Brothers,B2-96,,B2_A_6,Sacoor Brothers
+226,Women's Fashion,iROO,B2-97,,B2_A_6,iROO
+227,Men's Fashion,Ferrari Store,B2-98,,B2_A_6,Ferrari Store
+228,"Handbag, Shoes & Accessories",Charles and Keith Signature Label,B2-99,,B2_A_6,"Charles and Keith Signature Label, Charles and Keith"
+229,"Handbag, Shoes & Accessories",Orogold Cosmetics B2,B2-K1,,B2_A_5,"Orogold Cosmetics B2, Orogold B2"
+230,"Handbag, Shoes & Accessories",Pashma,B2-K13,,B2_B_4,Pashma
+231,Men's Fashion,Pandora,B2-K15,,B2_B_3,Pandora
+232,"Handbag, Shoes & Accessories",Onsen,B2-K17,,B2_B_3,Onsen
+233,"Handbag, Shoes & Accessories",OPI ,B2-K4,,B2_A_5,OPI
+234,"Handbag, Shoes & Accessories",Mt Sapola,B2-K5,,B2_A_5,"Mt Sapola, Sapola"
+235,Men's Fashion,Solvil et Titus,B2-K7,,B2_A_5,Solvil et Titus
+236,,Dior B2,B2-23,,B2_B_1,Dior B2
