@@ -37,7 +37,7 @@ graph = Graph()
 with open("./graph.json") as f: 
     data = json.load(f)
 data = data['graph']
-print()
+
 edges = []
 all_nodes = {}
 all_locations = {}
@@ -75,10 +75,8 @@ for edge in actual_edges:
 #NxM matrix declaration by the size of the number of shop destination
 MATRIX_SIZE = len(all_nodes)+1
 sample = [[0 for x in range(MATRIX_SIZE)] for y in range(MATRIX_SIZE)] 
-print(len(sample))
 i=0
 for node in all_nodes:
-    print(all_nodes[node])
     if i == 0:
         sample[i][i] = "NULL"
         i+=1
@@ -100,7 +98,6 @@ for i in range(MATRIX_SIZE):
         sample[i][j] = "default"
 
 org_df = pd.DataFrame(sample)
-print(all_nodes)
 org_df.to_csv("{}/cur_intermediate_tables/original.csv".format(file_path))
 ###################################################### constants ######################################################
 UNCLEAR = "unclear"
